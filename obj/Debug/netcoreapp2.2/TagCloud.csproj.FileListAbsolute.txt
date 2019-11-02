@@ -1,0 +1,15 @@
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/obj/Debug/netcoreapp2.2/TagCloud.csprojAssemblyReference.cache
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/obj/Debug/netcoreapp2.2/TagCloud.csproj.CoreCompileInputs.cache
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/obj/Debug/netcoreapp2.2/TagCloud.AssemblyInfoInputs.cache
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/obj/Debug/netcoreapp2.2/TagCloud.AssemblyInfo.cs
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/bin/Debug/netcoreapp2.2/nunit.engine.dll
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/bin/Debug/netcoreapp2.2/nunit.engine.api.dll
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/bin/Debug/netcoreapp2.2/TagCloud.deps.json
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/bin/Debug/netcoreapp2.2/TagCloud.runtimeconfig.json
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/bin/Debug/netcoreapp2.2/TagCloud.runtimeconfig.dev.json
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/bin/Debug/netcoreapp2.2/TagCloud.dll
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/bin/Debug/netcoreapp2.2/TagCloud.pdb
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/obj/Debug/netcoreapp2.2/TagCloud.dll
+/home/viktor/RiderProjects/tdd/cs/TagCloud/TagCloud/obj/Debug/netcoreapp2.2/TagCloud.pdb
